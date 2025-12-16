@@ -10,7 +10,8 @@ Hello! My name is Vytor, better known as Draxx 👋, a **programming enthusiast*
 # 📊 GitHub Stats:
 Here are some details about my activity and contributions on the platform:
 
-![draxxbr's Stats](https://github-readme-stats.vercel.app/api?username=draxxbr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![draxxbr's Stats](https://github-readme-stats.vercel.app/api?username=draxxbr&theme=blueberry&show_icons=true&hide_border=false&count_private=true) <br>
+![draxxbr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=draxxbr&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 ### 💡 What I Am Currently Studying
 
