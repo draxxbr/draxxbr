@@ -16,10 +16,7 @@ Here are some details about my activity and contributions on the platform:
 
 I am focused on building a solid foundation in Front End, exploring technologies such as:
 
-* **HTML** & **CSS**
-* **JavaScript**
-* **Tailwind CSS**
-* **Bootstrap**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,git,github,npm,vscode,tailwind)](https://skillicons.dev)
 
 ### 📬 Connect With Me
 
